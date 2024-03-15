@@ -1,7 +1,8 @@
 # Special Pikpak Fix
-DOMAIN-SUFFIX,mypikpak.com/drive
-DOMAIN-SUFFIX,mypikpak.com/zh-CN
+# DOMAIN-SUFFIX,mypikpak.com/drive
+# DOMAIN-SUFFIX,mypikpak.com/zh-CN
 DOMAIN-SUFFIX,access.mypikpak.net
+DOMAIN-SUFFIX,access.mypikpak.com
 DOMAIN-SUFFIX,access.pikpak.me
 DOMAIN-SUFFIX,access.pikpakdrive.com
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
