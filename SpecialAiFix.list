@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,bingworld.com
 DOMAIN,api.msn.com
 DOMAIN,assets.msn.com
 DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,mp.microsoft.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,dealczars.bing-shopping.microsoft-falcon.io
 # DOMAIN,eas.outlook.com
