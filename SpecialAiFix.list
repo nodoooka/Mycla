@@ -19,6 +19,9 @@ DOMAIN,api.msn.com
 DOMAIN,assets.msn.com
 DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,mp.microsoft.com
+DOMAIN-SUFFIX,activity.windows.com
+DOMAIN-SUFFIX,smartscreen.microsoft.com
+DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,dealczars.bing-shopping.microsoft-falcon.io
 # DOMAIN,eas.outlook.com
